@@ -1,0 +1,23 @@
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\bin\Debug\Windows Update Disabler.exe.config
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\bin\Debug\Windows Update Disabler.exe
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\bin\Debug\Windows Update Disabler.pdb
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\bin\Debug\Windows Update Disabler.xml
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows_Update_Disabler.Form1.resources
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows_Update_Disabler.Resources.resources
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.vbproj.GenerateResource.cache
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.vbproj.CoreCompileInputs.cache
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.exe
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.xml
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.pdb
+C:\Users\Bad Bad\source\repos\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.vbprojAssemblyReference.cache
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\bin\Debug\Windows Update Disabler.exe.config
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\bin\Debug\Windows Update Disabler.exe
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\bin\Debug\Windows Update Disabler.pdb
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\bin\Debug\Windows Update Disabler.xml
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.vbprojAssemblyReference.cache
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows_Update_Disabler.Form1.resources
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows_Update_Disabler.Resources.resources
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.vbproj.GenerateResource.cache
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.exe
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.xml
+D:\VS Projects\Windows Update Disabler\Windows_Update_Disabler\Windows Update Disabler\Windows Update Disabler\obj\Debug\Windows Update Disabler.pdb
